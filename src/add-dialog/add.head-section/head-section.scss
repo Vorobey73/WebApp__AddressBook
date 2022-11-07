@@ -4,7 +4,8 @@
     border: solid 1px black;
     justify-content: left;
     align-items: center;
-   
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
     
     &__phone-img {
         height: 40%;
